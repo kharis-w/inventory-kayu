@@ -1,0 +1,11 @@
+# disable directory browsing
+# Options All -Indexes
+
+# or map them to one error document:
+# ErrorDocument 400 http://localhost/skripsi/2019-06-21/app/404.php
+# ErrorDocument 401 http://localhost/skripsi/2019-06-21/app/404.php
+# ErrorDocument 403 http://localhost/skripsi/2019-06-21/app/404.php
+# ErrorDocument 404 http://localhost/skripsi/2019-06-21/app/404.php
+# ErrorDocument 500 http://localhost/skripsi/2019-06-21/app/404.php
+# ErrorDocument 502 http://localhost/skripsi/2019-06-21/app/404.php
+# ErrorDocument 504 http://localhost/skripsi/2019-06-21/app/404.php
