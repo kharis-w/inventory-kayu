@@ -6,7 +6,7 @@
         <div class="sidebar-brand-icon">
           <img src="../assets/img/logo.png" height="50px">
         </div>
-        <div class="sidebar-brand-text mx-3">MA SITI FATIMAH</div>
+        <div class="sidebar-brand-text mx-3">PT. LOUISE &#38; ROCOCO</div>
       </a>
 
   <!-- Divider -->
